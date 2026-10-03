@@ -1,6 +1,5 @@
 const SKILLS = [
-  'UI Design', 'UX Research', 'Wireframing', 'Prototyping', 'Design Systems',
-  'App Design', 'Web Design', 'React', 'HTML & CSS', 'Figma', 'Squarespace', 'Canva',
+  'Figma', 'UI/UX Design', 'React', 'HTML & CSS', 'Responsive Web Design', 'Website Deployment',
 ];
 
 export default function About() {
